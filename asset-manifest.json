@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cecile-landing/static/css/main.a0769f36.css",
+    "main.js": "/cecile-landing/static/js/main.3b85d5d3.js",
+    "static/media/mindfullness.jpg": "/cecile-landing/static/media/mindfullness.ff6a7370eca7bc991c45.jpg",
+    "static/media/cecile.jpg": "/cecile-landing/static/media/cecile.67a10c36faba29832f23.jpg",
+    "static/media/cbt.jpg": "/cecile-landing/static/media/cbt.7604a26a4c6cab20caaf.jpg",
+    "static/media/testimonials-background.jpg": "/cecile-landing/static/media/testimonials-background.142ebff7a2b890594a47.jpg",
+    "static/media/landing-alt.jpg": "/cecile-landing/static/media/landing-alt.c350467dfd36ba912dc1.jpg",
+    "static/media/hypnosis.jpg": "/cecile-landing/static/media/hypnosis.01e99a4c6206a5de7be3.jpg",
+    "static/media/avatar-b.jpg": "/cecile-landing/static/media/avatar-b.86e2d7189aa74889af99.jpg",
+    "static/media/signature.png": "/cecile-landing/static/media/signature.7dbac438dc4c4d315cb5.png",
+    "static/media/avatar-a.jpg": "/cecile-landing/static/media/avatar-a.60d3163534c2b6bfd40e.jpg",
+    "static/media/avatar-c.jpg": "/cecile-landing/static/media/avatar-c.320e8976416d018be0a9.jpg",
+    "index.html": "/cecile-landing/index.html",
+    "main.a0769f36.css.map": "/cecile-landing/static/css/main.a0769f36.css.map",
+    "main.3b85d5d3.js.map": "/cecile-landing/static/js/main.3b85d5d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0769f36.css",
+    "static/js/main.3b85d5d3.js"
+  ]
+}
