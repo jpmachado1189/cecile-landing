@@ -1,0 +1,9 @@
+.calendly-btn {
+  background-color: #ffffff;
+  color: #1b1b1b;
+  transition-duration: 0.2s;
+}
+
+.calendly-btn:hover {
+  background-color: #8fd7d9;
+}

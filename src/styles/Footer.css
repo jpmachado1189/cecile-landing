@@ -1,0 +1,16 @@
+.footer-icon {
+  cursor: pointer;
+}
+
+.footer-icon:hover {
+  filter: brightness(40%);
+}
+
+.footer-link {
+  transition: filter 0.4s;
+}
+
+.footer-link:hover {
+  background-color: 'red';
+  filter: brightness(40%);
+}

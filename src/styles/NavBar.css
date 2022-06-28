@@ -1,0 +1,8 @@
+.nav-icon {
+  cursor: pointer;
+}
+
+.nav-icon:hover {
+  filter: brightness(40%);
+  color: #58a0a2;
+}
